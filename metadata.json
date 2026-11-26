@@ -1,0 +1,6 @@
+{
+  "name": "KalaVault",
+  "description": "100% local offline photo & video organizer, smart burst curator, Picasa-style non-destructive face viewer, and safe recovery bin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
